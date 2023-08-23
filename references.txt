@@ -1,0 +1,30 @@
+Fresnel Zone calculations
+[1] https://www.cdt21.com/resources/siryo8.asp
+[2] https://www.cdt21.com/resources/article6.asp
+
+Free pace
+[3] https://www.gaussianwaves.com/2013/09/friss-free-space-propagation-model/
+[4] https://www.electronics-notes.com/articles/antennas-propagation/propagation-overview/free-space-path-loss.php
+
+Requirements.txt
+[1] https://medium.com/@boscacci/why-and-how-to-make-a-requirements-txt-f329c685181e
+
+Link Budget
+[1] https://s.campbellsci.com/documents/us/technical-papers/link-budget.pdf
+[2] https://www.phys.hawaii.edu/~anita/new/papers/militaryHandbook/antennas.pdf
+
+Antenna Pattern
+[1] http://www.sharetechnote.com/html/Python_AntennaRadiationPattern.html
+[2] Antenna Measurement Data Analysis by Muhammad Ehtisham Asghar
+
+Two ray multi path model
+[1] Loyka, Sergey, and Ammar Kouki. "Using two ray multipath model for microwave link budget analysis." IEEE Antennas and Propagation Magazine 43.5 (2001): 31-36.
+[2] Rappaport, Theodore S. Wireless communications: principles and practice. Vol. 2. New Jersey: prentice hall PTR, 1996.
+[3] Zöchmann, Erich, Ke Guan, and Markus Rupp. "Two-ray models in mmWave communications." 2017 IEEE 18th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC). IEEE, 2017.
+[4] Analysis of the Relation Between Fresnel Zone and Path Loss Exponent Based on Two-Ray Model Ruisi He, Student Member, IEEE, Zhangdui Zhong, Bo Ai, Senior Member, IEEE, Jianwen Ding, and Ke Guan
+
+Gain and directivity
+[1] https://m.eet.com/images/common/rfdesignline/2010/06/C0581Ch3pt2.pdf
+
+Channel propagation
+[1] Gao, Zhenran, et al. "Wireless Channel Propagation Characteristics and Modeling Research in Rice Field Sensor Networks." Sensors 18.9 (2018): 3116.
